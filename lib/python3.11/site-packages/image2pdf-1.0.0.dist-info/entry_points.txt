@@ -1,0 +1,4 @@
+[console_scripts]
+i2pdf = src.image2pdf:app
+image2pdf = src.image2pdf:app
+

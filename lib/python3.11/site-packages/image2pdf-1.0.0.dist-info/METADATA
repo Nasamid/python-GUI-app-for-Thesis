@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: image2pdf
+Version: 1.0.0
+Summary: A simple CLI app that combines images to a single .pdf
+Home-page: https://github.com/christopher-chandler
+Author: Christopher Michael Chandler
+Author-email: christopher.chandler@outlook.de
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Image2Pdf
+
+# License
+This app comes with the MIT license
+
+# Dependencies
+
+
+
+
+Combining images to a pdf
+
+
