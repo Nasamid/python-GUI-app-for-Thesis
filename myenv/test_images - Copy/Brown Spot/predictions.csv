@@ -1,0 +1,21 @@
+filename,ground_truth,predicted_label,confidence,Bacterial Blight,Brown Spot,Healthy,Leaf Blast,Not a Rice Leaf
+processed_captured_image_1.png,Brown Spot,Brown Spot,99.96,0.01,99.96,0.00,0.02,0.00
+processed_captured_image_40.png,Brown Spot,Brown Spot,99.43,0.04,99.43,0.03,0.47,0.03
+processed_captured_image_23.png,Brown Spot,Brown Spot,98.30,0.04,98.30,0.04,1.58,0.04
+processed_captured_image_11.png,Brown Spot,Brown Spot,89.47,4.16,89.47,0.38,0.40,5.59
+processed_captured_image_21.png,Brown Spot,Not a Rice Leaf,97.85,0.48,0.13,0.48,1.05,97.85
+processed_captured_image_12.png,Brown Spot,Brown Spot,98.58,0.01,98.58,0.01,1.40,0.01
+processed_captured_image_8.png,Brown Spot,Bacterial Blight,99.88,99.88,0.05,0.02,0.01,0.04
+processed_captured_image_6.png,Brown Spot,Brown Spot,100.00,0.00,100.00,0.00,0.00,0.00
+processed_captured_image_42.png,Brown Spot,Brown Spot,98.86,0.02,98.86,0.02,1.08,0.02
+processed_captured_image_25.png,Brown Spot,Brown Spot,82.47,0.34,82.47,1.57,15.30,0.33
+processed_captured_image_30.png,Brown Spot,Healthy,91.33,1.13,0.87,91.33,6.06,0.61
+processed_captured_image_26.png,Brown Spot,Leaf Blast,95.84,0.41,2.57,0.73,95.84,0.46
+processed_captured_image_38.png,Brown Spot,Brown Spot,85.06,0.30,85.06,0.92,13.28,0.43
+processed_captured_image_28.png,Brown Spot,Brown Spot,94.11,0.38,94.11,0.40,4.67,0.45
+processed_captured_image_3.png,Brown Spot,Brown Spot,99.01,0.21,99.01,0.21,0.46,0.11
+processed_captured_image_44.png,Brown Spot,Brown Spot,50.26,0.91,50.26,1.78,46.47,0.58
+processed_captured_image_17.png,Brown Spot,Leaf Blast,97.01,0.02,2.67,0.06,97.01,0.23
+processed_captured_image_4.png,Brown Spot,Brown Spot,96.91,0.02,96.91,0.02,3.03,0.02
+processed_captured_image_32.png,Brown Spot,Brown Spot,77.29,0.06,77.29,0.10,22.48,0.07
+processed_captured_image_13.png,Brown Spot,Brown Spot,84.16,0.07,84.16,0.08,15.60,0.08

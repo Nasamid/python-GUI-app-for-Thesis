@@ -1,0 +1,23 @@
+filename,ground_truth,predicted_label,confidence,Bacterial Blight,Brown Spot,Healthy,Leaf Blast,Not a Rice Leaf
+processed_captured_image_1.png,Not a Rice Leaf,Leaf Blast,84.84,2.76,0.34,4.06,84.84,8.01
+processed_captured_image_10.png,Not a Rice Leaf,Leaf Blast,99.95,0.00,0.01,0.03,99.95,0.01
+processed_captured_image_5.png,Not a Rice Leaf,Leaf Blast,44.65,32.03,1.11,17.71,44.65,4.50
+processed_captured_image_19.png,Not a Rice Leaf,Leaf Blast,97.02,0.20,2.44,0.15,97.02,0.19
+processed_captured_image_23.png,Not a Rice Leaf,Leaf Blast,86.55,6.84,0.24,4.43,86.55,1.95
+processed_captured_image_36.png,Not a Rice Leaf,Bacterial Blight,98.90,98.90,0.03,0.12,0.06,0.89
+processed_captured_image_15.png,Not a Rice Leaf,Bacterial Blight,99.78,99.78,0.02,0.08,0.04,0.07
+processed_captured_image_6.png,Not a Rice Leaf,Leaf Blast,49.52,12.06,1.09,10.82,49.52,26.51
+processed_captured_image_20.png,Not a Rice Leaf,Brown Spot,97.07,0.21,97.07,0.13,2.47,0.12
+processed_captured_image_33.png,Not a Rice Leaf,Leaf Blast,41.95,35.53,2.95,15.56,41.95,4.01
+processed_captured_image_18.png,Not a Rice Leaf,Brown Spot,99.78,0.03,99.78,0.01,0.16,0.02
+processed_captured_image_30.png,Not a Rice Leaf,Leaf Blast,50.14,44.95,0.08,2.90,50.14,1.92
+processed_captured_image_29.png,Not a Rice Leaf,Leaf Blast,64.50,9.85,2.09,21.95,64.50,1.61
+processed_captured_image_28.png,Not a Rice Leaf,Bacterial Blight,82.09,82.09,0.93,10.69,4.30,1.99
+processed_captured_image_34.png,Not a Rice Leaf,Not a Rice Leaf,79.23,1.92,0.32,3.66,14.88,79.23
+processed_captured_image_35.png,Not a Rice Leaf,Leaf Blast,98.83,0.46,0.02,0.37,98.83,0.32
+processed_captured_image_31.png,Not a Rice Leaf,Bacterial Blight,94.23,94.23,1.26,2.62,0.92,0.98
+processed_captured_image_17.png,Not a Rice Leaf,Healthy,37.75,16.12,1.18,37.75,12.28,32.66
+processed_captured_image_4.png,Not a Rice Leaf,Bacterial Blight,64.71,64.71,23.66,3.09,5.84,2.69
+processed_captured_image_32.png,Not a Rice Leaf,Bacterial Blight,53.62,53.62,0.99,17.19,5.15,23.06
+processed_captured_image_22.png,Not a Rice Leaf,Not a Rice Leaf,92.72,5.35,0.06,0.68,1.18,92.72
+processed_captured_image_13.png,Not a Rice Leaf,Not a Rice Leaf,99.93,0.01,0.00,0.02,0.04,99.93
